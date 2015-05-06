@@ -1,7 +1,6 @@
-##This is a markdown file
-## This is a secondary heading
-### Tertiary
 
-* first item in list
-* second item in list
-* 
+## Data Science Specialization 
+
+ * Uses R 
+ * Nine courses 
+ * Goes from raw data to data products
